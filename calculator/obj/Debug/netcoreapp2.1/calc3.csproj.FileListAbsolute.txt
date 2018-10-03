@@ -1,0 +1,11 @@
+/Users/w1702/Uni/2018 Semester 4/NET Applications Development/Assignment1/calc3/calc3/obj/Debug/netcoreapp2.1/calc3.csprojAssemblyReference.cache
+/Users/w1702/Uni/2018 Semester 4/NET Applications Development/Assignment1/calc3/calc3/obj/Debug/netcoreapp2.1/calc3.csproj.CoreCompileInputs.cache
+/Users/w1702/Uni/2018 Semester 4/NET Applications Development/Assignment1/calc3/calc3/obj/Debug/netcoreapp2.1/calc3.AssemblyInfoInputs.cache
+/Users/w1702/Uni/2018 Semester 4/NET Applications Development/Assignment1/calc3/calc3/obj/Debug/netcoreapp2.1/calc3.AssemblyInfo.cs
+/Users/w1702/Uni/2018 Semester 4/NET Applications Development/Assignment1/calc3/calc3/bin/Debug/netcoreapp2.1/calc3.deps.json
+/Users/w1702/Uni/2018 Semester 4/NET Applications Development/Assignment1/calc3/calc3/bin/Debug/netcoreapp2.1/calc3.runtimeconfig.json
+/Users/w1702/Uni/2018 Semester 4/NET Applications Development/Assignment1/calc3/calc3/bin/Debug/netcoreapp2.1/calc3.runtimeconfig.dev.json
+/Users/w1702/Uni/2018 Semester 4/NET Applications Development/Assignment1/calc3/calc3/bin/Debug/netcoreapp2.1/calc3.dll
+/Users/w1702/Uni/2018 Semester 4/NET Applications Development/Assignment1/calc3/calc3/bin/Debug/netcoreapp2.1/calc3.pdb
+/Users/w1702/Uni/2018 Semester 4/NET Applications Development/Assignment1/calc3/calc3/obj/Debug/netcoreapp2.1/calc3.dll
+/Users/w1702/Uni/2018 Semester 4/NET Applications Development/Assignment1/calc3/calc3/obj/Debug/netcoreapp2.1/calc3.pdb

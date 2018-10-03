@@ -1,0 +1,22 @@
+/Users/w1702/Uni/2018 Semester 4/NET Applications Development/Assignment1/calculator/calculator/bin/Debug/netcoreapp2.1/calculator.deps.json
+/Users/w1702/Uni/2018 Semester 4/NET Applications Development/Assignment1/calculator/calculator/bin/Debug/netcoreapp2.1/calculator.runtimeconfig.json
+/Users/w1702/Uni/2018 Semester 4/NET Applications Development/Assignment1/calculator/calculator/bin/Debug/netcoreapp2.1/calculator.runtimeconfig.dev.json
+/Users/w1702/Uni/2018 Semester 4/NET Applications Development/Assignment1/calculator/calculator/bin/Debug/netcoreapp2.1/calculator.dll
+/Users/w1702/Uni/2018 Semester 4/NET Applications Development/Assignment1/calculator/calculator/bin/Debug/netcoreapp2.1/calculator.pdb
+/Users/w1702/Uni/2018 Semester 4/NET Applications Development/Assignment1/calculator/calculator/obj/Debug/netcoreapp2.1/calculator.csprojAssemblyReference.cache
+/Users/w1702/Uni/2018 Semester 4/NET Applications Development/Assignment1/calculator/calculator/obj/Debug/netcoreapp2.1/calculator.csproj.CoreCompileInputs.cache
+/Users/w1702/Uni/2018 Semester 4/NET Applications Development/Assignment1/calculator/calculator/obj/Debug/netcoreapp2.1/calculator.AssemblyInfoInputs.cache
+/Users/w1702/Uni/2018 Semester 4/NET Applications Development/Assignment1/calculator/calculator/obj/Debug/netcoreapp2.1/calculator.AssemblyInfo.cs
+/Users/w1702/Uni/2018 Semester 4/NET Applications Development/Assignment1/calculator/calculator/obj/Debug/netcoreapp2.1/calculator.dll
+/Users/w1702/Uni/2018 Semester 4/NET Applications Development/Assignment1/calculator/calculator/obj/Debug/netcoreapp2.1/calculator.pdb
+/Users/w1702/Development/calculator/calculator/bin/Debug/netcoreapp2.1/calculator.deps.json
+/Users/w1702/Development/calculator/calculator/bin/Debug/netcoreapp2.1/calculator.runtimeconfig.json
+/Users/w1702/Development/calculator/calculator/bin/Debug/netcoreapp2.1/calculator.runtimeconfig.dev.json
+/Users/w1702/Development/calculator/calculator/bin/Debug/netcoreapp2.1/calculator.dll
+/Users/w1702/Development/calculator/calculator/bin/Debug/netcoreapp2.1/calculator.pdb
+/Users/w1702/Development/calculator/calculator/obj/Debug/netcoreapp2.1/calculator.csprojAssemblyReference.cache
+/Users/w1702/Development/calculator/calculator/obj/Debug/netcoreapp2.1/calculator.csproj.CoreCompileInputs.cache
+/Users/w1702/Development/calculator/calculator/obj/Debug/netcoreapp2.1/calculator.AssemblyInfoInputs.cache
+/Users/w1702/Development/calculator/calculator/obj/Debug/netcoreapp2.1/calculator.AssemblyInfo.cs
+/Users/w1702/Development/calculator/calculator/obj/Debug/netcoreapp2.1/calculator.dll
+/Users/w1702/Development/calculator/calculator/obj/Debug/netcoreapp2.1/calculator.pdb
